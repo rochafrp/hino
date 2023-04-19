@@ -11,7 +11,8 @@ def menu():
             elif opcao == 3: hino = "flamengo"    
             elif opcao == 4: hino = "fluminense"
             elif opcao == 5: hino = "vasco"
-            elif opcao == 6:
+            elif opcao == 6: hino = "madureira"
+            elif opcao == 7:
                 print("Programa encerrado.")
                 break
             else:
